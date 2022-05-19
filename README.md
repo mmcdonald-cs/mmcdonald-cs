@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmcdonald-cs
 - 👀 I’m interested in travel, law, foreign languages, and cs (of course)!
-- 🌱 I’m currently learning introductory CS using "The Odin Prodject/"
+- 🌱 I’m currently learning introductory CS using "The Odin Prodject"
 - 💞️ I’m looking to collaborate on ... I don't know atm.
 - 📫 How to reach me - email: mmcdonald.cs@gmail.com
 
